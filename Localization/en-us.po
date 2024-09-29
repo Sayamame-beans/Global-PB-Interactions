@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+"Language: en-us\n"
+
+msgid "GlobalInteraction:label:diversionPoint"
+msgstr "Diversion Point"
+
+msgid "GlobalInteraction:label:rootTransform"
+msgstr "Root Transform"
+
+msgid "GlobalInteraction:label:radius"
+msgstr "Radius"
+
+msgid "GlobalInteraction:label:height"
+msgstr "Height"

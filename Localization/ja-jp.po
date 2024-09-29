@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Language: ja-jp\n"
+
+msgid "GlobalInteraction:description"
+msgstr "Global Interactionは本来アバターの手に生成される標準コライダーを流用し、他のユーザーのPhysBoneに干渉可能なPB Colliderを設定するものです。\n"
+"Contactも同時に流用されるため、ギミック等の誤作動が発生する可能性があります。"
+
+msgid "GlobalInteraction:label:diversionPoint"
+msgstr "流用する箇所"
+
+msgid "GlobalInteraction:label:rootTransform"
+msgstr "Root Transform"
+
+msgid "GlobalInteraction:label:radius"
+msgstr "半径"
+
+msgid "GlobalInteraction:label:height"
+msgstr "長さ"
+
+msgid "GlobalInteraction:info:hands collider"
+msgstr "Handsにある標準コライダーはPBを掴むための機能を持っています。誤操作にご注意ください。"

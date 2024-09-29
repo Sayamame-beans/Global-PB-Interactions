@@ -1,0 +1,17 @@
+{
+  "name": "com.github.sayamame-beans.global-pb-interactions",
+  "version": "0.0.0",
+  "displayName": "Global PB Interactions",
+  "author": {
+    "name": "Sayamame-beans",
+    "url": "https://github.com/Sayamame-beans"
+  },
+  "url": "https://github.com/Sayamame-beans/Global-PB-Interactions",
+  "repo": "https://sayabeans.github.io/vpm/index.json",
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.7.0 <3.8.0",
+    "nadena.dev.ndmf": ">=1.5.0"
+  },
+  "description": "A NDMF-tool for configuring globally interactive PhysBone Colliders.",
+  "unity": "2022.3"
+}
